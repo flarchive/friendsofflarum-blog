@@ -1,27 +1,36 @@
-# v17development/flarum-blog (Archive)
+# friendsofflarum-blog (Archive)
 
-> **Read-only archive of released versions of v17development/flarum-blog.** Not for installation: use [Packagist](https://packagist.org/packages/v17development/flarum-blog) or the [upstream repository](https://github.com/FriendsOfFlarum/blog).
+> **Read-only archive of released versions for fof/blog, v17development/flarum-blog.** Not for installation: use Packagist or the [upstream repository](https://github.com/FriendsOfFlarum/blog).
 
-**40** versions archived · Latest: [`2.0.0-beta.4`](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v2.0.0-beta.4) (stable: [`0.4.1`](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v0.4.1)) · License: `MIT` · Flarum: `^2.0.0`
+**40** versions archived · Latest: [`0.4.1`](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.4.1) · License: `MIT` · Flarum: `^1.0.0`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`fof/blog`](https://packagist.org/packages/fof/blog)
+- [`v17development/flarum-blog`](https://packagist.org/packages/v17development/flarum-blog)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `0.4.1` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v0.4.1) |
-| `0.4.2` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v0.4.2) |
-| `1.0.0` | 2026-06-15 | `^1.8.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v1.0.0) |
-| `1.0.1` | 2026-06-16 | `^1.8.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v1.0.1) |
-| `2.0.0-beta.1` | 2026-07-23 | `^2.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v2.0.0-beta.1) |
-| `2.0.0-beta.2` | 2026-07-23 | `^2.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v2.0.0-beta.2) |
-| `2.0.0-beta.3` | 2026-07-31 | `^2.0.0` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v2.0.0-beta.3) |
-| `v0.1.0` | 2020-11-16 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v0.1.0) |
-| `v0.1.1` | 2020-11-17 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v0.1.1) |
-| `v0.1.2` | 2020-11-17 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/v17development-flarum-blog/tree/archive/v0.1.2) |
+| `0.4.1` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.4.1) |
+| `0.4.2` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.4.2) |
+| `1.0.0` | 2026-06-15 | `^1.8.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-06-16 | `^1.8.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v1.0.1) |
+| `2.0.0-beta.1` | 2026-07-23 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.1) |
+| `2.0.0-beta.2` | 2026-07-23 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.2) |
+| `2.0.0-beta.3` | 2026-07-31 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.3) |
+| `v0.1.0` | 2020-11-16 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.1.0) |
+| `v0.1.1` | 2020-11-17 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.1.1) |
+| `v0.1.2` | 2020-11-17 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.1.2) |
 
-[View all 40 versions](https://github.com/flarchive/v17development-flarum-blog/tags)
+[View all 40 versions](https://github.com/flarchive/friendsofflarum-blog/tags)
 
-Catalog entry: [packages/v17development-flarum-blog.json](https://github.com/flarchive/archive-index/blob/main/packages/v17development-flarum-blog.json)
+## Catalog entries
+
+- [`fof/blog`](https://github.com/flarchive/archive-index/blob/main/packages/fof-blog.json)
+- [`v17development/flarum-blog`](https://github.com/flarchive/archive-index/blob/main/packages/v17development-flarum-blog.json)
 
 ## About this archive
 
