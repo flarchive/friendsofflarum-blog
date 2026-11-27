@@ -2,24 +2,13 @@
 
 > **Read-only archive of released versions of v17development/flarum-blog.** Not for installation: use [Packagist](https://packagist.org/packages/v17development/flarum-blog) or the [upstream repository](https://github.com/FriendsOfFlarum/blog).
 
-**42** versions archived · Latest: [`2.0.0-beta.5`](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.5) (stable: [`0.4.1`](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.4.1)) · License: `MIT` · Flarum: `^2.0.0`
+**0** versions archived · Latest: [`2.1.0`](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.1.0) · License: `MIT` · Flarum: `^2.1.0-beta.1`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `0.4.1` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.4.1) |
-| `0.4.2` | 2021-08-17 | `^1.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.4.2) |
-| `1.0.0` | 2026-06-15 | `^1.8.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v1.0.0) |
-| `1.0.1` | 2026-06-16 | `^1.8.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v1.0.1) |
-| `2.0.0-beta.1` | 2026-07-23 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.1) |
-| `2.0.0-beta.2` | 2026-07-23 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.2) |
-| `2.0.0-beta.3` | 2026-07-31 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.3) |
-| `2.0.0-beta.4` | 2026-10-13 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.4) |
-| `2.0.0-beta.5` | 2026-10-23 | `^2.0.0` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v2.0.0-beta.5) |
-| `v0.1.0` | 2020-11-16 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/friendsofflarum-blog/tree/archive/v0.1.0) |
-
-[View all 42 versions](https://github.com/flarchive/friendsofflarum-blog/tags)
+| — | — | — | — |
 
 Catalog entry: [packages/friendsofflarum-blog.json](https://github.com/flarchive/archive-index/blob/main/packages/friendsofflarum-blog.json)
 
